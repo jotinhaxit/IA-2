@@ -234,3 +234,26 @@ h2:hover {
   color: rgb(96, 102, 127); 
   font-weight: bold;
 }
+
+footer img {
+  width: 40px;
+  height: 40px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  margin: 20px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+a {
+  text-decoration: none;
+}
+
+footer p {
+  margin-top: 2px;
+}
