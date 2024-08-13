@@ -113,7 +113,7 @@ button:hover {
 .checkbox:hover + .container::before,
 .checkbox:hover + .container::after {
   background: rgb(105, 165, 26);
-  transition: all 0.3s ease;
+  transition: all 0.5s ease;
 }
 
 .menu__item {
@@ -124,7 +124,7 @@ button:hover {
   width: 80px;
   height: 80px;
   opacity: 0;
-  transition: all 0.6s;
+  transition: all 0.5s;
   transform-origin: center bottom;
   margin-top: -80px;
 }
